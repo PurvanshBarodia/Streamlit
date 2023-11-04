@@ -1,0 +1,74 @@
+Product Family,Sum of count of orders,Avg product weight in Kg,,Product Family,Count,Weight,Cluster
+agro industry and commerce,212,5.26,,agro industry and commerce,0.018896788,0.388072847,3
+foods,510,0.92,,foods,0.045712229,0.053028818,4
+food drinks,278,1.31,,food drinks,0.024835778,0.082713323,4
+Arts,209,1.69,,Arts,0.018626833,0.112344784,4
+arts and crafts,24,1.16,,arts and crafts,0.001979663,0.071646522,4
+artigos de festas,43,2.71,,artigos de festas,0.003689373,0.190625255,3
+artigos de natal,153,1.85,,artigos de natal,0.01358769,0.12454626,4
+Audio,364,0.64,,Audio,0.032574462,0.031275868,4
+automotive,4235,2.65,,automotive,0.380905246,0.186678929,2
+babies,3065,3.66,,babies,0.275623144,0.263920715,2
+drinks,379,1.74,,drinks,0.033924233,0.115773141,4
+beauty saude,9670,1.43,,beauty saude,0.869972105,0.092506904,5
+hopping,4117,1.87,,hopping,0.370287051,0.126054818,2
+bed table banho,11115,2.46,,bed table banho,1,0.17137453,5
+comfort house,434,3.8,,comfort house,0.038873392,0.275133823,3
+comfort house 2,30,1.47,,comfort house 2,0.002519572,0.095039519,4
+construcao house,604,3.4,,construcao house,0.054170791,0.243888593,3
+cds dvds music,14,0.55,,cds dvds music,0.001079816,0.024201488,4
+cinema photo,72,0.8,,cinema photo,0.006298929,0.043175961,4
+climatizacao,297,4.46,,climatizacao,0.026545487,0.32604744,3
+consoles games,1137,0.64,,consoles games,0.102132637,0.030891522,4
+construcao ferramentas construcao,929,3.55,,construcao ferramentas construcao,0.083415819,0.255803289,3
+construcao ferramentas ferramentas,103,1.05,,construcao ferramentas ferramentas,0.009088455,0.062632858,4
+construcao ferramentas iluminacao,304,2.28,,construcao ferramentas iluminacao,0.02717538,0.15783042,4
+construcao ferramentas jardim,238,2.4,,construcao ferramentas jardim,0.02123639,0.16709993,3
+construcao ferramentas seguranca,194,0.95,,construcao ferramentas seguranca,0.017277063,0.055140572,4
+cool stuff,3796,2.57,,cool stuff,0.341401962,0.17987989,2
+blu ray dvds,64,0.38,,blu ray dvds,0.005579052,0.01119824,4
+household appliances,771,1.98,,household appliances,0.069198236,0.134569708,4
+household appliances 2,238,9.91,,household appliances 2,0.02123639,0.747043793,1
+electronics,2767,1.28,,electronics,0.248807703,0.080177514,2
+eletroportateis,679,4.01,,eletroportateis,0.060919644,0.291496035,3
+lazer sport,8641,2.02,,lazer sport,0.777377846,0.138044962,5
+fashion bags and accessories,2031,0.43,,fashion bags and accessories,0.182578962,0.014687795,2
+fashion traced,262,1.04,,fashion traced,0.023396023,0.062377186,4
+fashion sports,30,0.34,,fashion sports,0.002519572,0.008355326,4
+fashion roupa feminina,48,0.57,,fashion roupa feminina,0.004139296,0.025917027,4
+fashion roupa infantile youth,8,0.32,,fashion roupa infantile youth,0.000539908,0.006754458,4
+male fashion roupa,132,0.56,,male fashion roupa,0.011698011,0.024953165,4
+fashion underwear e moda praia,131,0.36,,fashion underwear e moda praia,0.011608027,0.009708422,4
+ferramentas jardim,4347,3.1,,ferramentas jardim,0.390983533,0.221351147,2
+flowers,33,1.4,,flowers,0.002789526,0.090096562,4
+fraldas hygiene,39,1.04,,fraldas hygiene,0.003329434,0.061836122,4
+"industry, commerce and business",268,5.93,,"industry, commerce and business",0.023935931,0.439471009,3
+computer accessories,7827,0.9,,computer accessories,0.704130298,0.051095983,5
+musical instruments,680,3.36,,musical instruments,0.061009628,0.241211516,3
+the cuisine,14,4.35,,the cuisine,0.001079816,0.317558636,3
+imported books,60,0.6,,imported books,0.005219113,0.027812421,4
+Geral Interesse Books,553,0.75,,Geral Interesse Books,0.049581571,0.039379718,4
+technical books,267,1.11,,technical books,0.023845946,0.067266744,4
+bad accessories,1092,3.72,,bad accessories,0.098083326,0.269176605,3
+market place,311,1.54,,market place,0.027805273,0.100945707,4
+moveis colchao e stew,38,13.19,,moveis colchao e stew,0.003239449,1,1
+moveis cozinha service area jantar and garden,281,11.6,,moveis cozinha service area jantar and garden,0.025105732,0.877142322,1
+moveis decoracao,8334,3.01,,moveis decoracao,0.749752542,0.213977843,5
+moveis desk,1691,12.74,,moveis desk,0.151984163,0.965327294,1
+you move room 1,109,10,,you move room 1,0.009628363,0.753519952,1
+you move room 2,503,8.93,,you move room 2,0.045082336,0.671505317,1
+music,38,1.21,,music,0.003239449,0.07542462,4
+paperwork,2517,1.76,,paperwork,0.226311527,0.117852907,2
+pc gamer,9,1.43,,pc gamer,0.000629893,0.092111094,4
+pcs,203,8,,pcs,0.018086925,0.598975633,1
+perfumery,3419,0.53,,perfumery,0.307477729,0.022600137,2
+pet shop,1947,3.09,,pet shop,0.175020247,0.220199323,3
+you carried home forno and cafe,76,3.07,,you carried home forno and cafe,0.006658868,0.218860641,3
+portateis cozinha and food preparers,15,2.52,,portateis cozinha and food preparers,0.001169801,0.176091011,3
+present praise,5991,0.51,,present praise,0.538918384,0.021058509,5
+insurance and services,2,0.81,,insurance and services,0,0.044466291,4
+sinalizacao and seguranca,199,2.97,,sinalizacao and seguranca,0.017726986,0.21100956,3
+printed tablets or imagem,83,0.38,,printed tablets or imagem,0.007288761,0.011189126,4
+telephony,4545,0.24,,telephony,0.408800504,0,2
+fixed telephone,264,0.66,,fixed telephone,0.023575992,0.032757295,4
+domestic utilities,6964,3.02,,domestic utilities,0.6264735,0.214944898,5
